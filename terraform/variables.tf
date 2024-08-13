@@ -19,5 +19,6 @@ variable "zone_name" {
 }
 #created this as part of CD
 variable "app_version" {
+
     
 }
